@@ -16,10 +16,16 @@ We follow OpenAIs suggestions and lead our prompt with a clear expectation of th
 
 The complete prompt is
 > I am a skilled art historian. If you give me a painting, I will give you a possible interpretation.
+
 > Q: What is a possible interpretation of "Starry Night", by Vincent van Gogh?
+
 > A: The overwhelming night sky, takes up most of the background. Its swirling, flowing lines appear to be swishing across the background in this gentle, wavy motion and seem to be merging at the center to form this spiral-like formation. Eleven fiery yellow stars that look like huge fireballs illuminate this whole piece and contrast with the cool blue. The painting seems to be seething with life as the fluid brushstrokes give the impression of movement. The artist painted a cypress bush in a very prominent position. A possible interpretation could be that the bush was a representation of the inner anguish he was going through at that time.
+
 > Q: What is a possible interpretation of "Abstract Painting Blue 1953 1" by Ad Reinhardt?
+
 > A: Perception is a function of rods and cones adjusting in the retina. Waking in the middle of the night, everything is black at first and only slowly more colors begin to emerge. It takes patience and acute attention to make sense of the new reality. The artists use of color is so subtle that it is on the very threshold of perception. The somber monochrome rewards the patient viewer with a site of peaceful contemplation.   
+
 > Q: What is a possible interpretation of "{painting}" by {artist}?
+
 > A:
 
