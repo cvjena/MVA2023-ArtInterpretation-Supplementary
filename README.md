@@ -1,6 +1,7 @@
 # ArtInterpretation-Supplementary
 Contains supplementary material for our accepted submission titled "Interpreting Art by Leveraging Pre-Trained Models" to the MVA2023.
 The goal was to leverage pre-trained foundation models to first generate data and then learn to interpret artworks.
+[Click here to try our best model!](https://ai-interprets.art/)
 
 ## Framework Overview
 ![Framework](./framework.png)
@@ -34,3 +35,4 @@ The complete prompt is
 
 > A:
 
+These interpretations are public and were shortened and edited to fit size constraints. The originals can be found [here](http://www.vggallery.com/visitors/002.htm) and [here](https://artcritical.com/2017/11/10/threshold-perception-ad-reinhardts-blue-paintings/).
