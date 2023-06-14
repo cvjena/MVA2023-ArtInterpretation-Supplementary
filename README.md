@@ -1,10 +1,15 @@
 # ArtInterpretation-Supplementary
 Contains supplementary material for our accepted submission titled "Interpreting Art by Leveraging Pre-Trained Models" to the MVA2023.
 The goal was to leverage pre-trained foundation models to first generate data and then learn to interpret artworks.
-Here are some examples:
+
+## Framework Overview
+![Framework](./framework.png)
+
+## Example Outputs
 ![Examples](./examples.png)
 
-The supplementary here includes four directories each containing 250 generated images and interpretations respectively.
+## Supplementary Material Contents
+The supplementary collected here includes four directories each containing 250 generated images and interpretations respectively.
 These are generated iteratively by alternating a latent diffusion model together with our best-performing interpretation model.
 Each of these directories corresponds to one of the example images from the paper.
 The relevant paragraph in the paper is:
